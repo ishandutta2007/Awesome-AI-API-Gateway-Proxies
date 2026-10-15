@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-API-Gateway-Proxies/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-API-Gateway-Proxies?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-API-Gateway-Proxies/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-API-Gateway-Proxies?style=social" alt="GitHub_Stars"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-API-Gateway-Proxies/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -82,60 +82,60 @@ The following table benchmarks leading SaaS and fully managed AI API gateway pla
 
 ## 💻 Open-Source GitHub Projects
 
-The following list showcases open-source AI gateways, LLM proxies, reverse proxies, and inference orchestration layers, **sorted in descending order by GitHub Stars**:
+The following list showcases open-source AI gateways, LLM proxies, reverse proxies, and inference orchestration layers, **sorted in descending order by GitHub_Stars**:
 
-1. **[Traefik](https://github.com/traefik/traefik)** [![GitHub stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)  
+1. **[Traefik](https://github.com/traefik/traefik)** [![GitHub_Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)  
    🚀 Cloud-native modern HTTP reverse proxy and ingress controller written in Go. With automatic configuration discovery and dedicated AI gateway middleware plugins, it easily manages high-throughput microservices and LLM endpoint routing.
 
-2. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+2. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
    ⚡ Lightweight, provider-agnostic proxy and Python SDK to call 100+ LLMs (OpenAI, Anthropic, Bedrock, Vertex AI, HuggingFace, Ollama) using the standard OpenAI input/output format. Features dynamic load balancing, cross-provider fallbacks, Redis-backed semantic caching, virtual key management, and detailed team spend tracking.
 
-3. **[Kong](https://github.com/Kong/kong)** [![GitHub stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers)  
+3. **[Kong](https://github.com/Kong/kong)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers)  
    🦍 Ultra-fast, cloud-native API gateway built on OpenResty / NGINX and Lua. Its AI Gateway plugins support dynamic multi-LLM routing, semantic prompt decoration, credential virtualization, rate-limiting by token counts, and enterprise security guardrails.
 
-4. **[One API](https://github.com/songquanpeng/one-api)** [![GitHub stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social&color=white)](https://github.com/songquanpeng/one-api/stargazers)  
+4. **[One API](https://github.com/songquanpeng/one-api)** [![GitHub_Stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social&color=white)](https://github.com/songquanpeng/one-api/stargazers)  
    🎯 All-in-one OpenAI-compatible API aggregation and distribution gateway system written in Go. Supports unified redistribution, multi-key rotation, user quota management, and token conversion for major foundation models (OpenAI, Claude, Gemini, DeepSeek, Qwen, Baidu ERNIE). Packaged as a single binary and Docker container.
 
-5. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+5. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
    🪢 Open-source LLM engineering platform and proxy companion offering comprehensive tracing, prompt management, model latency tracking, evals, and fine-grained token cost analysis for production agent applications.
 
-6. **[Envoy](https://github.com/envoyproxy/envoy)** [![GitHub stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=social&color=white)](https://github.com/envoyproxy/envoy/stargazers)  
+6. **[Envoy](https://github.com/envoyproxy/envoy)** [![GitHub_Stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=social&color=white)](https://github.com/envoyproxy/envoy/stargazers)  
    🛡️ High-performance C++ distributed service proxy and communication bus. Powers enterprise service meshes and cloud-native gateways worldwide, and underpins high-speed LLM routing filters and agent communication networks.
 
-7. **[Apache APISIX](https://github.com/apache/apisix)** [![GitHub stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers)  
+7. **[Apache APISIX](https://github.com/apache/apisix)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers)  
    ⚡ High-performance dynamic, real-time API gateway based on NGINX and etcd. Delivers dynamic routing, hot-reloading plugins, rate limiting, and dedicated AI proxy plugins (`ai-proxy`) supporting multi-model upstream fallback, token billing, and load balancing.
 
-8. **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
+8. **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers)  
    🗝️ Ultra-fast, production-ready AI gateway core written in TypeScript. Enables routing to 1,600+ LLMs with 50+ out-of-the-box guardrails, load balancing, automatic retries, semantic caching, and unified telemetry with a 9.9x lower latency footprint.
 
-9. **[Phoenix (Arize AI)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+9. **[Phoenix (Arize AI)](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
    🔥 AI observability and evaluation gateway library providing OpenTelemetry-based LLM tracing, evaluation benchmarks, latency heatmaps, and prompt debugging for agent pipelines.
 
-10. **[Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
+10. **[Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub_Stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
     🏎️ NVIDIA's open-source multi-framework inference serving proxy and gateway. Optimizes GPU/CPU resource utilization, dynamic batching, concurrent model execution, and hardware-accelerated endpoints for local model serving.
 
-11. **[Tyk](https://github.com/TykTechnologies/tyk)** [![GitHub stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)  
+11. **[Tyk](https://github.com/TykTechnologies/tyk)** [![GitHub_Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)  
     🚀 Open-source enterprise API gateway written in Go. Supports REST, GraphQL, and gRPC with zero third-party dependencies beyond Redis, featuring extensible middleware plugins for LLM rate limiting, auth, and analytics.
 
-12. **[Higress](https://github.com/alibaba/higress)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social&color=white)](https://github.com/alibaba/higress/stargazers)  
+12. **[Higress](https://github.com/alibaba/higress)** [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/higress?style=social&color=white)](https://github.com/alibaba/higress/stargazers)  
     🤖 Next-generation AI-native API gateway built on Envoy and Istio. Provides native OpenAI-compatible protocol conversion, multi-provider model routing, semantic caching, token rate limiting, and WebAssembly plugin extensibility.
 
-13. **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
+13. **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
     🍱 Unified inference framework and model serving gateway for building distributed, production-grade AI services with auto-scaling, batching, multi-model pipelines, and OpenAI-compatible API endpoints.
 
-14. **[Bifrost](https://github.com/maximhq/bifrost)** [![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers)  
+14. **[Bifrost](https://github.com/maximhq/bifrost)** [![GitHub_Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers)  
     🌈 Ultra-low latency, high-performance AI and Model Context Protocol (MCP) gateway written in Go. Provides drop-in OpenAI compatibility across 20+ LLM providers, adaptive load balancing, semantic caching, virtual keys, and automated failover.
 
-15. **[Envoy Gateway](https://github.com/envoyproxy/gateway)** [![GitHub stars](https://img.shields.io/github/stars/envoyproxy/gateway?style=social&color=white)](https://github.com/envoyproxy/gateway/stargazers)  
+15. **[Envoy Gateway](https://github.com/envoyproxy/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/envoyproxy/gateway?style=social&color=white)](https://github.com/envoyproxy/gateway/stargazers)  
     🚪 Official Kubernetes Gateway API implementation managing Envoy Proxy as a standalone or Kubernetes-native ingress gateway, delivering advanced routing, traffic splitting, and AI workload governance.
 
-16. **[KrakenD](https://github.com/krakend/krakend-ce)** [![GitHub stars](https://img.shields.io/github/stars/krakend/krakend-ce?style=social&color=white)](https://github.com/krakend/krakend-ce/stargazers)  
+16. **[KrakenD](https://github.com/krakend/krakend-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/krakend/krakend-ce?style=social&color=white)](https://github.com/krakend/krakend-ce/stargazers)  
     🐙 Ultra-high performance, stateless open-source API gateway written in Go. Specializes in microservices aggregation, request transformation, and linear throughput scaling for backend AI microservices.
 
-17. **[The Agent Router](https://github.com/theagentrouter/agent-router)** [![GitHub stars](https://img.shields.io/github/stars/theagentrouter/agent-router?style=social&color=white)](https://github.com/theagentrouter/agent-router/stargazers)  
+17. **[The Agent Router](https://github.com/theagentrouter/agent-router)** [![GitHub_Stars](https://img.shields.io/github/stars/theagentrouter/agent-router?style=social&color=white)](https://github.com/theagentrouter/agent-router/stargazers)  
     🧭 Unified access proxy and router for Generative AI and autonomous agent systems built on Envoy Gateway, implementing standard OpenAI-compatible routing and fine-grained agent policies.
 
-18. **[Gravitee API Management](https://github.com/gravitee-io/gravitee-api-management)** [![GitHub stars](https://img.shields.io/github/stars/gravitee-io/gravitee-api-management?style=social&color=white)](https://github.com/gravitee-io/gravitee-api-management/stargazers)  
+18. **[Gravitee API Management](https://github.com/gravitee-io/gravitee-api-management)** [![GitHub_Stars](https://img.shields.io/github/stars/gravitee-io/gravitee-api-management?style=social&color=white)](https://github.com/gravitee-io/gravitee-api-management/stargazers)  
     🪐 Flexible, event-native open-source API management platform (Apache 2.0) covering gateway execution, developer portals, and policy design for streaming and RESTful AI services.
 
 ---
@@ -182,7 +182,7 @@ We welcome community contributions! To suggest a new AI API gateway or update an
 1. **Fork the repository** to your GitHub account.
 2. **Add or update entries** in [`README.md`](file:///README.md):
    - For **SaaS products**, populate the tabular format including company size/valuation, exact starting paid tier pricing, and specific free tier / trial limits.
-   - For **Open-Source tools**, add the social white badge linking to `/stargazers` and maintain descending order by star count.
+   - For **Open-Source tools**, add the social white badge linking to `/stargazers` and maintain descending order by Stars_Count.
 3. Verify that URLs, pricing documentation, and project links are active and factual.
 4. **Submit a Pull Request** with a clear explanation of the addition or update.
 
